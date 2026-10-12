@@ -1,0 +1,26 @@
+while True:
+	
+	b_y=int(input("Enter your birth year :"))
+	x=b_y%12
+	if x==1 :
+		print("Your chinese zodiac sign: Monkey")
+	if x==2:
+		print("Your chinese zodiac sign: Rooster")
+	if x==3:
+		print("Your chinese zodiac sign: Dog")
+	if x==4:
+		print("Your chinese zodiac sign: Pig")
+	if x==5:
+		print("Your chinese zodiac sign: Rat")
+	if x==6:
+		print("Your chinese zodiac sign: Ox")
+	if x==7:
+		print("Your chinese zodiac sign: Tiger")
+	if x==8:
+		print("Your chinese zodiac sign: Dragon")
+	if x==9:
+		print("Your chinese zodiac sign: Snake")
+	if x==10:
+		print("Your chinese zodiac sign: Horse")
+	if x==11:
+		print("Your chinese zodiac sign: Sheep")
